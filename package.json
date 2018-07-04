@@ -37,6 +37,6 @@
   ],
   "homepage": "https://github.com/mage3k/vue-feather-icon#readme",
   "dependencies": {
-    "vue-feather-icon": "https://github.com/shakepay/vue-feather-icon"
+    "vue": "^2.5.16"
   }
 }
