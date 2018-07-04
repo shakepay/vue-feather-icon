@@ -27,6 +27,7 @@ module.exports = function(Vue) {
   Vue.component('feather-battery', require('./components/battery.vue').default)
   Vue.component('feather-bell-off', require('./components/bell-off.vue').default)
   Vue.component('feather-bell', require('./components/bell.vue').default)
+  Vue.component('feather-bitcoin', require('./components/bitcoin.vue').default)
   Vue.component('feather-bluetooth', require('./components/bluetooth.vue').default)
   Vue.component('feather-bold', require('./components/bold.vue').default)
   Vue.component('feather-book', require('./components/book.vue').default)
