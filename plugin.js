@@ -268,4 +268,3 @@ module.exports = function(Vue) {
   Vue.component('feather-zoom-in', require('./components/zoom-in.vue').default)
   Vue.component('feather-zoom-out', require('./components/zoom-out.vue').default)
 }
-}
