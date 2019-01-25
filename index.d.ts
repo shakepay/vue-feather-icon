@@ -34,6 +34,7 @@ declare module 'vue-feather-icon' {
   export class Battery {}
   export class BellOff {}
   export class Bell {}
+  export class Bitcoin {}
   export class Bluetooth {}
   export class Bold {}
   export class BookOpen {}
